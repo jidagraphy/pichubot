@@ -1,0 +1,2 @@
+# pichubot
+ simple twitch chatbot
